@@ -1,6 +1,6 @@
 # Quantitative assessment of research data management practice - University of Bordeaux : Contexte, méthode et focus sur quelques résultats
 
-Présentation aux Rencontres d'hiver du réseau S.O. MATE - 2019-11-20.
+Présentation aux Rencontres d'hiver du réseau S.O. MATE - 2019-11-22.
 
 L'enquête concernant la gestion des données de recherche a été menée à l'université de Bordeaux en janvier 2019. Les données associées sont déposées dans Zenodo : https://doi.org/10.5281/zenodo.3241238.
 
